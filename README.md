@@ -1,2 +1,2 @@
 # Neural-Network-and-CV
-Course from Samsung Research
+**Samsung Research course**
